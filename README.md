@@ -1,8 +1,9 @@
 # React Native Playground
-## Used to test, practice and discover new items in React Native
----
 
-## Setted up with *TypeScript*.
+Used to test, practice and discover new items in React Native
+Setted up with *TypeScript*.
+
+---
 
 ## Project Structure
 
